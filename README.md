@@ -14,9 +14,8 @@ Python, PyTorch, scikit-learn, Jupyter, Git, Pandas, NumPy, etc.
 ## 📌 Featured Projects
 Here are a few projects that showcase my skills:
 
-- **[hexxed-rnn-model](link)**: Modeling human-like learning in a custom puzzle environment.
-- **[image-caption-generator](link)**: An encoder-decoder model trained on the COCO dataset to generate natural image captions.
-- **[covid-vaccine-predictor](link)**: Predicting vaccine acceptance using logistic regression and random forests.
+- **[rnn-human-learning-thesis](link)**: My senior thesis in Computational Neuroscience, training RNNs on puzzle game data to explore whether AI can replicate human "leaps of insight" in sequential decision-making.
 
 ## 📫 How to Reach Me
-[Email] • [LinkedIn] 
+[Email](mailto:nina.leah.mizrahi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ninamizrahi/)
+
